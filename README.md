@@ -1,3 +1,9 @@
-## find complete course here   
+## Jenkins-webapp ###
+-> Install Jenkins
+->Install Mavn,git
+->on second server install apche tomcat
+->can see the wat file in jenkins
+->installthe pluggins i.e.deploy to container,maven invoker,maven install etc
+->After the changes made in file can see application UPPPP!!!!!!
+![Capture](https://user-images.githubusercontent.com/72296999/115142613-6105b280-a060-11eb-9cc6-6791add82b5f.PNG)
 
-[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
