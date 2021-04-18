@@ -11,7 +11,10 @@
 ## to add plugins in jenkins to integrate to docker 
 
 ->add publish over ssh 
-->troubleshoot to error--unnamble to
+->troubleshoot to error--unable to connect -faied to coonect ssh config-
+->enable the password authentication yes in /etc/ssh/sshd/config file,
+->restart sshd deamon
+-> reload the jenkins server
 ![j1](https://user-images.githubusercontent.com/72296999/115147266-d6c94880-a077-11eb-9a2d-4f07a780e7e8.PNG)
 
 
